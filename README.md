@@ -108,6 +108,8 @@ Bug reports and feature requests are welcome via the [GitHub issues page](https:
 
 This Stata implementation builds on an earlier R implementation of the parametric Klein–Vella estimator written by **Agnieszka Postepska** (Department of Economics, Econometrics and Finance, University of Groningen). I am grateful to her for sharing the original code, on which much of `kvpara`'s estimation logic is based. Any errors in this Stata port are my own.
 
+Stata code developed with AI assistance (Claude) for translation and expansion. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
+
 ## License
 
 Released under the MIT License. See `LICENSE` for details.
